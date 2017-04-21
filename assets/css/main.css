@@ -17,6 +17,7 @@ html {
   overflow: hidden;
   }
 
+
 .content {
     position: absolute;
     z-index: 0;
@@ -93,7 +94,11 @@ html {
   z-index: 1337;
   width: 100%;
   bottom: 2vh;
-  letter-spacing: 3em;
+}
+
+.sm-container i {
+  margin-left: 1em;
+  margin-right: 1em;
 }
 
 a {
